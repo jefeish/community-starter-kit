@@ -1,5 +1,8 @@
 # Bug Report
-
+---
+name: Bug Report
+about: Use this template if you have questions about how to use the Team Roundup app...
+---
 ## Summary (Short description oneliner)
 
 ## Severity
