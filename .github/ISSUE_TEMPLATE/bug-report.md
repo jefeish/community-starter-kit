@@ -1,3 +1,9 @@
+---
+title: 'Bug report'
+labels: bug
+assignees: octocat
+---
+
 # Bug Report
 
 ## Summary (Short description oneliner)
