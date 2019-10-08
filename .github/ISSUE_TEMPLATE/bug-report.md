@@ -1,3 +1,8 @@
+---
+name: Bug Report
+about: Use this template if you have questions about how to use the Team Roundup app.
+---
+
 # Bug Report
 
 ## Summary (Short description oneliner)
